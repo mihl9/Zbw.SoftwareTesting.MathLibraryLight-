@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Zbw.SoftwareTesting.MathLibrary.ConsoleTest
+namespace Zbw.SoftwareTesting.MathLibraryLight.ConsoleTest
 {
     /// <summary>
     /// Executes tests based on the inputs and writes the result onto the console

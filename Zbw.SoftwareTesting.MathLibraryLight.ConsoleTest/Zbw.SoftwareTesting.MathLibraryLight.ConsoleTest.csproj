@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{769EFAAF-6C68-43DA-938F-C3A3B2CB69CF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Zbw.SoftwareTesting.MathLibrary.ConsoleTest</RootNamespace>
-    <AssemblyName>Zbw.SoftwareTesting.MathLibrary.ConsoleTest</AssemblyName>
+    <RootNamespace>Zbw.SoftwareTesting.MathLibraryLight.ConsoleTest</RootNamespace>
+    <AssemblyName>Zbw.SoftwareTesting.MathLibraryLight.ConsoleTest</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -1,7 +1,6 @@
 ﻿using System;
-using Zbw.SoftwareTesting.MathLibraryLight;
 
-namespace Zbw.SoftwareTesting.MathLibrary.ConsoleTest
+namespace Zbw.SoftwareTesting.MathLibraryLight.ConsoleTest
 {
     public class Program
     {
